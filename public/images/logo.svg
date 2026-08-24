@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 180" fill="none">
+  <!-- A shape (blue) -->
+  <path d="M50 160 L100 20 L130 100 L110 100 L100 70 L70 160 Z" fill="#2D7DD2"/>
+  <!-- H shape (dark navy) -->
+  <path d="M90 80 L110 80 L110 60 L140 60 L140 160 L120 160 L120 100 L110 100 L110 160 L90 160 Z" fill="#2D3748"/>
+  <!-- A crossbar merge -->
+  <path d="M75 120 L90 120 L90 100 L110 100 L95 100 L85 130 L75 130 Z" fill="#2D7DD2"/>
+</svg>
